@@ -9,8 +9,8 @@ public class PlayerBounds : MonoBehaviour
     void Start()
     {
         Vector3 coor = Camera.main.ScreenToWorldPoint (new Vector3(Screen.width, Screen.height, 0));
-        minX = -coor.x + 0.35f;
-        maxX = coor.x - 0.35f;
+        minX = -coor.x + 0.4f;
+        maxX = coor.x - 0.4f;
     }
 
     // Update is called once per frame
