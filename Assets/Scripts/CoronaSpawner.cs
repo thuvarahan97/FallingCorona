@@ -31,6 +31,6 @@ public class CoronaSpawner : MonoBehaviour
 
         Instantiate (corona[Random.Range(0, corona.Length)], temp, Quaternion.identity);
         
-        StartCoroutine (SpawnCorona(Random.Range(0.1f, 1.5f)));
+        StartCoroutine (SpawnCorona(Random.Range(0.05f, 1.5f)));
     }
 } // class
