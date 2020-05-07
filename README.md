@@ -1,2 +1,2 @@
-# FallingCorona
- FallingCorona - 2D Mobile Game
+# Falling Corona
+ Falling Corona - 2D Mobile Game
