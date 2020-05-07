@@ -776,21 +776,3 @@ iOS Build/Unity-iPhone/Images.xcassets/LaunchImage.launchimage/Default-Portrait@
 iOS Build/Unity-iPhone/Images.xcassets/LaunchImage.launchimage/Default@2x.png
 iOS Build/UnityFramework/Info.plist
 iOS Build/UnityFramework/UnityFramework.h
-WebGL Build/Build/UnityLoader.js
-WebGL Build/Build/WebGL Build.data.unityweb
-WebGL Build/Build/WebGL Build.json
-WebGL Build/Build/WebGL Build.wasm.code.unityweb
-WebGL Build/Build/WebGL Build.wasm.framework.unityweb
-WebGL Build/index.html
-WebGL Build/TemplateData/favicon.ico
-WebGL Build/TemplateData/fullscreen.png
-WebGL Build/TemplateData/progressEmpty.Dark.png
-WebGL Build/TemplateData/progressEmpty.Light.png
-WebGL Build/TemplateData/progressFull.Dark.png
-WebGL Build/TemplateData/progressFull.Light.png
-WebGL Build/TemplateData/progressLogo.Dark.png
-WebGL Build/TemplateData/progressLogo.Light.png
-WebGL Build/TemplateData/style.css
-WebGL Build/TemplateData/UnityProgress.js
-WebGL Build/TemplateData/webgl-logo.png
-WebGL Build/TemplateData/favicon.png
